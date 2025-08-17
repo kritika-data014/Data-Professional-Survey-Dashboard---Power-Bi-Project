@@ -15,7 +15,7 @@ A Power BI dashboard built from a data‑professionals survey using Power Quer
  - _Data Modeling_ – Created necessary lookup relationships (e.g., job title categories, region breakdown).
  - _DAX Measures_ – Including Average Salary, Satisfaction Scores by category, Respondent Counts, and Difficulty Ratings.
  - _Visualizations_ – Designed interactive dashboards using charts (bar, map, pie), cards/KPIs, and slicers for exploratory analysis.
-
+ 
 # Dashboard Preview
 <img width="1320" height="743" alt="Data Professional Survey Breakdown Dashboard" src="https://github.com/user-attachments/assets/cc6649b7-3269-4a50-9e8c-2b5e1049ab14" />
 
